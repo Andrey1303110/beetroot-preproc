@@ -1,0 +1,16 @@
+header h1 {
+  color: aqua;
+}
+
+header p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section form button {
+  border: 3px yellow;
+}
+
+footer a {
+  color: aquamarine;
+}
+/*# sourceMappingURL=style.css.map */
